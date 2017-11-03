@@ -1,4 +1,4 @@
-# Design Automation DWG Query Custom Activity Client Application
+# DWG Query Activity Client Application
 
 ![alt text](https://github.com/mazerab/design.automation-nodejs-pdf.exporter/blob/master/www/img/export%20to%20PDF.png)
 
