@@ -1,10 +1,10 @@
-# Export to PDF
+# Design Automation DWG Query Custom Activity Client Application
 
 ![alt text](https://github.com/mazerab/design.automation-nodejs-pdf.exporter/blob/master/www/img/export%20to%20PDF.png)
 
 # Description
 
-This 
+This sample C# application creates a custom activity that lets users query information in AutoCAD drawing files 
 
 # Setup
 
