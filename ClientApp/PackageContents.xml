@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ApplicationPackage
+    SchemaVersion="1.0"
+    Version="1.0"
+    ProductCode=""
+    HelpFile=""
+    Name="QueryDWGPackage"
+    Description="DWG Query Custom Package"
+    Author="Bastien Mazeran" >
+
+  <CompanyDetails
+      Name="Autodesk, Inc"
+      Phone="415.555.5555"
+      Url="www.autodesk.com"
+      Email="bastien.mazeran@autodesk.com" />
+
+  <Components>
+    <RuntimeRequirements
+        OS="Win64"
+        Platform="AutoCAD" />
+    <ComponentEntry
+        AppName="QueryDWGPackage"
+        ModuleName="./Contents/ArxApp.dll"
+        AppDescription="AutoCAD.IO .net DWG query app"
+        LoadOnCommandInvocation="True"
+        LoadOnAutoCADStartup="False">
+      <Commands GroupName="QueryDWGCommands">
+        <Command Global="QUERYDWG" Local="querydwg" />
+      </Commands>
+    </ComponentEntry>
+  </Components>
+</ApplicationPackage>
+
