@@ -6,7 +6,7 @@ This sample C# application creates a custom activity that lets users query infor
 
 # Setup
 
-- Compile Arx CAD Plugin
+- Compile [Arx CAD Plugin](https://github.com/mazerab/design.automation-dwgquery-arxapp)
 - Copy the ArxApp.dll to this project bin\Release directory
 - Rebuild current project in Release mode
 
