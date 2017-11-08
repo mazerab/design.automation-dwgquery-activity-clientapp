@@ -20,7 +20,7 @@ This sample C# application creates a custom activity that lets users query infor
 ## Packages used
 
 - Newtonsoft JSON
-- [Microsoft oData Connected Services] (https://marketplace.visualstudio.com/items?itemName=laylaliu.ODataConnectedService)
+- [Microsoft oData Connected Services](https://marketplace.visualstudio.com/items?itemName=laylaliu.ODataConnectedService)
 
 # License
 
