@@ -15,7 +15,7 @@ This sample C# application creates a custom activity that lets users query infor
 
 - Open a new PowerShell window and navigate to the project bin\Release directory
 - Run the command .\ClientApp.exe
-- Answer the questions to publish the app package to the Autodesk Cloud
+- Answer the questions to publish the app package
 
 ## Packages used
 
